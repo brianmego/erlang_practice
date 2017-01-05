@@ -1,3 +1,4 @@
 .env
 *.pyc
 *.beam
+*.sw[op]
